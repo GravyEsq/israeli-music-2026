@@ -1,0 +1,20 @@
+{
+  "name": "israeli-music-2026",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "validate": "node scripts/validate-data.mjs",
+    "test": "node --test",
+    "check": "npm run validate && npm test",
+    "update:data": "node scripts/update-data.mjs"
+  },
+  "devDependencies": {
+    "ajv": "8.20.0",
+    "ajv-formats": "3.0.1"
+  }
+}

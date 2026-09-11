@@ -1,0 +1,90 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Israeli Hebrew music tracker 2026",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "year", "updatedAt", "releases", "songs"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "year": { "const": 2026 },
+    "updatedAt": { "anyOf": [{ "type": "null" }, { "type": "string", "format": "date-time" }] },
+    "releases": { "type": "array", "items": { "$ref": "#/definitions/release" } },
+    "songs": { "type": "array", "items": { "$ref": "#/definitions/song" } }
+  },
+  "definitions": {
+    "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9._-]*$" },
+    "text": { "type": "string", "minLength": 1, "pattern": "\\S" },
+    "date": { "type": "string", "format": "date", "pattern": "^2026-" },
+    "names": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "$ref": "#/definitions/text" } },
+    "genres": { "type": "array", "uniqueItems": true, "items": { "$ref": "#/definitions/text" } },
+    "source": {
+      "type": "object", "additionalProperties": false,
+      "required": ["label", "url", "checkedAt"],
+      "properties": {
+        "label": { "$ref": "#/definitions/text" },
+        "url": { "type": "string", "format": "uri", "pattern": "^https://" },
+        "checkedAt": { "type": "string", "format": "date-time" }
+      }
+    },
+    "sources": { "type": "array", "minItems": 1, "items": { "$ref": "#/definitions/source" } },
+    "eligibility": {
+      "description": "Evidence for at least one qualifying Israeli primary artist.",
+      "type": "object", "additionalProperties": false,
+      "required": ["artist", "isIsraeli", "monthlyListeners", "source"],
+      "properties": {
+        "artist": { "$ref": "#/definitions/text" },
+        "isIsraeli": { "const": true },
+        "monthlyListeners": { "type": "integer", "minimum": 50000 },
+        "source": { "$ref": "#/definitions/source" }
+      }
+    },
+    "popularity": {
+      "description": "Unknown until an independently sourced methodology is implemented; never a stream count.",
+      "anyOf": [
+        { "type": "null" },
+        {
+          "type": "object", "additionalProperties": false,
+          "required": ["score", "method", "source"],
+          "properties": {
+            "score": { "type": "number", "minimum": 0, "maximum": 100 },
+            "method": { "$ref": "#/definitions/text" },
+            "source": { "$ref": "#/definitions/source" }
+          }
+        }
+      ]
+    },
+    "release": {
+      "type": "object", "additionalProperties": false,
+      "required": ["id", "type", "title", "artists", "releaseDate", "language", "genres", "popularity", "sources", "eligibility"],
+      "properties": {
+        "id": { "$ref": "#/definitions/id" },
+        "type": { "enum": ["single", "album"] },
+        "title": { "$ref": "#/definitions/text" },
+        "artists": { "$ref": "#/definitions/names" },
+        "releaseDate": { "$ref": "#/definitions/date" },
+        "language": { "const": "he" },
+        "genres": { "$ref": "#/definitions/genres" },
+        "popularity": { "$ref": "#/definitions/popularity" },
+        "sources": { "$ref": "#/definitions/sources" },
+        "eligibility": { "$ref": "#/definitions/eligibility" }
+      }
+    },
+    "song": {
+      "type": "object", "additionalProperties": false,
+      "required": ["id", "title", "artists", "releaseDate", "releaseIds", "isrc", "language", "genres", "popularity", "sources", "eligibility"],
+      "properties": {
+        "id": { "$ref": "#/definitions/id" },
+        "title": { "$ref": "#/definitions/text" },
+        "artists": { "$ref": "#/definitions/names" },
+        "releaseDate": { "$ref": "#/definitions/date" },
+        "releaseIds": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "$ref": "#/definitions/id" } },
+        "isrc": { "anyOf": [{ "type": "null" }, { "type": "string", "pattern": "^[A-Z]{2}[A-Z0-9]{3}[0-9]{7}$" }] },
+        "language": { "const": "he" },
+        "genres": { "$ref": "#/definitions/genres" },
+        "popularity": { "$ref": "#/definitions/popularity" },
+        "sources": { "$ref": "#/definitions/sources" },
+        "eligibility": { "$ref": "#/definitions/eligibility" }
+      }
+    }
+  }
+}
