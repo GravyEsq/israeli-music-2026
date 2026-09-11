@@ -93,7 +93,19 @@ async function load() {
       { id: 'songs', kind: 'songs', title: 'כל השירים', description: 'סינגלים ורצועות אלבום, עם רשומה אחת לכל הקלטה.' }
     ].map(config => createTable(data, config));
     container.replaceChildren(...sections);
-    status.textContent = data.updatedAt ? `עדכון נתונים אחרון: ${dateFormat.format(new Date(data.updatedAt))}` : 'המאגר מוכן לאיסוף. נתוני ריליסים יופיעו כאן לאחר אימות; העדכון האוטומטי עדיין לא פעיל.';
+    status.textContent = data.updatedAt ? `עדכון נתונים אחרון: ${new Intl.DateTimeFormat('he-IL', { timeZone: 'Asia/Jerusalem' }).format(new Date(data.updatedAt))}` : 'המאגר מוכן לאיסוף. נתוני ריליסים יופיעו כאן לאחר אימות.';
+    try {
+      const checkResponse = await fetch('./data/status.json', { cache: 'no-cache' });
+      if (!checkResponse.ok) throw new Error('Check status unavailable');
+      const check = await checkResponse.json();
+      const checkedAt = check.lastSuccess ? new Intl.DateTimeFormat('he-IL', { dateStyle: 'short', timeStyle: 'short', timeZone: 'Asia/Jerusalem' }).format(new Date(check.lastSuccess)) : 'טרם הושלמה';
+      const stale = !check.lastSuccess || Date.now() - Date.parse(check.lastSuccess) > 48 * 3600000;
+      status.textContent += ` · בדיקה מוצלחת אחרונה: ${checkedAt} · ${check.pendingCount ?? 0} ריליסים ממתינים לבדיקה.`;
+      if (check.state === 'failed') status.textContent += ' הבדיקה האחרונה נכשלה; מוצגים הנתונים המאומתים האחרונים.';
+      else if (stale) status.textContent += ' לא הושלמה בדיקה ביומיים האחרונים.';
+      if (check.expiredArtists?.length) status.textContent += ' נדרש רענון של נתוני הזכאות לאמנים.';
+      document.querySelector('#coverage').textContent = `כיסוי ראשוני: ${check.artists.join(', ')}. זו עדיין אינה רשימה מלאה של ריליסי 2026.`;
+    } catch { status.textContent += ' · מצב הבדיקה היומית אינו זמין.'; }
   } catch (error) {
     status.textContent = 'לא ניתן לטעון את המאגר. נסו שוב בעוד רגע.'; retry.hidden = false; console.error(error);
   }

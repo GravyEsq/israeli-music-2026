@@ -1,0 +1,65 @@
+[
+  {
+    "id": "odeya",
+    "name": "אודיה",
+    "appleArtistId": 1487358556,
+    "eligibility": {
+      "artist": "אודיה",
+      "isIsraeli": true,
+      "monthlyListeners": 770200,
+      "source": {
+        "label": "Spotify · תצפית בדף האמן",
+        "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA/",
+        "checkedAt": "2026-09-11T21:31:11.169Z"
+      }
+    },
+    "identitySource": {
+      "label": "מקור זהות האמן",
+      "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+      "checkedAt": "2026-09-11T21:31:11.169Z"
+    },
+    "observationNote": "Public Spotify page indexed around 2026-09-10; inspected 2026-09-11T21:31:11.169Z. Not a live listener-count API. Renew manually within 30 days for new approvals."
+  },
+  {
+    "id": "omer-adam",
+    "name": "עומר אדם",
+    "appleArtistId": 451953510,
+    "eligibility": {
+      "artist": "עומר אדם",
+      "isIsraeli": true,
+      "monthlyListeners": 1228431,
+      "source": {
+        "label": "Spotify · תצפית בדף האמן",
+        "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL/",
+        "checkedAt": "2026-09-11T21:31:11.169Z"
+      }
+    },
+    "identitySource": {
+      "label": "מקור זהות האמן",
+      "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL/",
+      "checkedAt": "2026-09-11T21:31:11.169Z"
+    },
+    "observationNote": "Public Spotify page indexed around 2026-09-09; inspected 2026-09-11T21:31:11.169Z. Not a live listener-count API. Renew manually within 30 days for new approvals."
+  },
+  {
+    "id": "eden-hason",
+    "name": "עדן חסון",
+    "appleArtistId": 1180539623,
+    "eligibility": {
+      "artist": "עדן חסון",
+      "isIsraeli": true,
+      "monthlyListeners": 828214,
+      "source": {
+        "label": "Spotify · תצפית בדף האמן",
+        "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4/",
+        "checkedAt": "2026-09-11T21:31:11.169Z"
+      }
+    },
+    "identitySource": {
+      "label": "מקור זהות האמן",
+      "url": "https://en.wikipedia.org/wiki/Eden_Hason",
+      "checkedAt": "2026-09-11T21:31:11.169Z"
+    },
+    "observationNote": "Public Spotify page indexed around 2026-09-10; inspected 2026-09-11T21:31:11.169Z. Not a live listener-count API. Renew manually within 30 days for new approvals."
+  }
+]

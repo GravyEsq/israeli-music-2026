@@ -1,7 +1,1657 @@
 {
   "schemaVersion": 1,
   "year": 2026,
-  "updatedAt": null,
-  "releases": [],
-  "songs": []
+  "updatedAt": "2026-09-11T21:31:11.169Z",
+  "releases": [
+    {
+      "id": "apple-release-1873987890",
+      "type": "single",
+      "title": "חוזר לעצמי",
+      "artists": [
+        "עדן חסון"
+      ],
+      "releaseDate": "2026-02-04",
+      "language": "he",
+      "genres": [],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עדן חסון",
+        "isIsraeli": true,
+        "monthlyListeners": 828214,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1873987890",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.youtube.com/watch?v=PaIAGZjPKA8",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-release-1877927148",
+      "type": "album",
+      "title": "חלק מהנצח",
+      "artists": [
+        "עומר אדם"
+      ],
+      "releaseDate": "2026-02-19",
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עומר אדם",
+        "isIsraeli": true,
+        "monthlyListeners": 1228431,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1877927148",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-release-1886466607",
+      "type": "single",
+      "title": "שיר לממ\"ד",
+      "artists": [
+        "אודיה"
+      ],
+      "releaseDate": "2026-03-24",
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אודיה",
+        "isIsraeli": true,
+        "monthlyListeners": 770200,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1886466607",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://bagels.tv/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%A9%D7%99%D7%A8-%D7%9C%D7%9E%D7%9E%D7%93/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-release-1887323372",
+      "type": "single",
+      "title": "עושה שלום",
+      "artists": [
+        "מתן לוי",
+        "עדן חסון"
+      ],
+      "releaseDate": "2026-03-24",
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עדן חסון",
+        "isIsraeli": true,
+        "monthlyListeners": 828214,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1887323372",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://yosmusic.com/%D7%A2%D7%93%D7%9F-%D7%97%D7%A1%D7%95%D7%9F-%D7%95%D7%9E%D7%AA%D7%9F-%D7%9C%D7%95%D7%99-%D7%A2%D7%95%D7%A9%D7%94-%D7%A9%D7%9C%D7%95%D7%9D/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-release-1896459483",
+      "type": "single",
+      "title": "כל הברכה שלי",
+      "artists": [
+        "עדן חסון"
+      ],
+      "releaseDate": "2026-05-10",
+      "language": "he",
+      "genres": [],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עדן חסון",
+        "isIsraeli": true,
+        "monthlyListeners": 828214,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1896459483",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.youtube.com/watch?v=xv6AXXmqWDA",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-release-6768723548",
+      "type": "single",
+      "title": "איך שהיא רוקדת",
+      "artists": [
+        "עדן חסון",
+        "אופק אדנק",
+        "אגם בוחבוט"
+      ],
+      "releaseDate": "2026-05-19",
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עדן חסון",
+        "isIsraeli": true,
+        "monthlyListeners": 828214,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6768723548",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.youtube.com/watch?v=eaqW5eQXTdM",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-release-6769335752",
+      "type": "album",
+      "title": "השם יעזור",
+      "artists": [
+        "אודיה"
+      ],
+      "releaseDate": "2026-05-17",
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אודיה",
+        "isIsraeli": true,
+        "monthlyListeners": 770200,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6769335752",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-release-6778542208",
+      "type": "single",
+      "title": "הלוואי שטוב לך",
+      "artists": [
+        "עדן חסון"
+      ],
+      "releaseDate": "2026-06-10",
+      "language": "he",
+      "genres": [],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עדן חסון",
+        "isIsraeli": true,
+        "monthlyListeners": 828214,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6778542208",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.youtube.com/watch?v=XAspw-uiHZc",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-release-6791788909",
+      "type": "single",
+      "title": "כולי תפילה",
+      "artists": [
+        "עדן חסון",
+        "מידד טסה"
+      ],
+      "releaseDate": "2026-07-26",
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עדן חסון",
+        "isIsraeli": true,
+        "monthlyListeners": 828214,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6791788909",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.kipa.co.il/%D7%91%D7%A8%D7%A0%D7%96%D7%94/1228524-0/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    }
+  ],
+  "songs": [
+    {
+      "id": "apple-recording-1873987900",
+      "title": "חוזר לעצמי",
+      "artists": [
+        "עדן חסון"
+      ],
+      "releaseDate": "2026-02-04",
+      "releaseIds": [
+        "apple-release-1873987890"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עדן חסון",
+        "isIsraeli": true,
+        "monthlyListeners": 828214,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1873987890?i=1873987900",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.youtube.com/watch?v=PaIAGZjPKA8",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1877927564",
+      "title": "משפחה וכבוד",
+      "artists": [
+        "עומר אדם"
+      ],
+      "releaseDate": "2026-02-19",
+      "releaseIds": [
+        "apple-release-1877927148"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עומר אדם",
+        "isIsraeli": true,
+        "monthlyListeners": 1228431,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1877927148?i=1877927564",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1877927573",
+      "title": "פלאזה אתנה",
+      "artists": [
+        "עומר אדם"
+      ],
+      "releaseDate": "2026-02-19",
+      "releaseIds": [
+        "apple-release-1877927148"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עומר אדם",
+        "isIsraeli": true,
+        "monthlyListeners": 1228431,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1877927148?i=1877927573",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1877927577",
+      "title": "אלבי",
+      "artists": [
+        "עומר אדם"
+      ],
+      "releaseDate": "2026-02-19",
+      "releaseIds": [
+        "apple-release-1877927148"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עומר אדם",
+        "isIsraeli": true,
+        "monthlyListeners": 1228431,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1877927148?i=1877927577",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1877927578",
+      "title": "אורות כחולים",
+      "artists": [
+        "עומר אדם"
+      ],
+      "releaseDate": "2026-02-19",
+      "releaseIds": [
+        "apple-release-1877927148"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עומר אדם",
+        "isIsraeli": true,
+        "monthlyListeners": 1228431,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1877927148?i=1877927578",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1877927579",
+      "title": "יש יותר מדי שירים היום",
+      "artists": [
+        "עומר אדם"
+      ],
+      "releaseDate": "2026-02-19",
+      "releaseIds": [
+        "apple-release-1877927148"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עומר אדם",
+        "isIsraeli": true,
+        "monthlyListeners": 1228431,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1877927148?i=1877927579",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1877927580",
+      "title": "לילות יפים",
+      "artists": [
+        "עומר אדם",
+        "גל אדם",
+        "רואי אדם"
+      ],
+      "releaseDate": "2026-02-19",
+      "releaseIds": [
+        "apple-release-1877927148"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עומר אדם",
+        "isIsraeli": true,
+        "monthlyListeners": 1228431,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1877927148?i=1877927580",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1877927581",
+      "title": "שירתו של החורף",
+      "artists": [
+        "עומר אדם"
+      ],
+      "releaseDate": "2026-02-19",
+      "releaseIds": [
+        "apple-release-1877927148"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עומר אדם",
+        "isIsraeli": true,
+        "monthlyListeners": 1228431,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1877927148?i=1877927581",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1877927585",
+      "title": "פינה של שקט",
+      "artists": [
+        "עומר אדם"
+      ],
+      "releaseDate": "2026-02-19",
+      "releaseIds": [
+        "apple-release-1877927148"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עומר אדם",
+        "isIsraeli": true,
+        "monthlyListeners": 1228431,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1877927148?i=1877927585",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1877927587",
+      "title": "מישהו שמזכיר אותי",
+      "artists": [
+        "עומר אדם"
+      ],
+      "releaseDate": "2026-02-19",
+      "releaseIds": [
+        "apple-release-1877927148"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עומר אדם",
+        "isIsraeli": true,
+        "monthlyListeners": 1228431,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1877927148?i=1877927587",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1877927798",
+      "title": "ריו דה ז'נרו",
+      "artists": [
+        "עומר אדם"
+      ],
+      "releaseDate": "2026-02-19",
+      "releaseIds": [
+        "apple-release-1877927148"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עומר אדם",
+        "isIsraeli": true,
+        "monthlyListeners": 1228431,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1877927148?i=1877927798",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1877927800",
+      "title": "בן 32",
+      "artists": [
+        "עומר אדם"
+      ],
+      "releaseDate": "2026-02-19",
+      "releaseIds": [
+        "apple-release-1877927148"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עומר אדם",
+        "isIsraeli": true,
+        "monthlyListeners": 1228431,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1877927148?i=1877927800",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1877927801",
+      "title": "מאפיה",
+      "artists": [
+        "עומר אדם"
+      ],
+      "releaseDate": "2026-02-19",
+      "releaseIds": [
+        "apple-release-1877927148"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עומר אדם",
+        "isIsraeli": true,
+        "monthlyListeners": 1228431,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1877927148?i=1877927801",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1877927802",
+      "title": "הסוף הזה",
+      "artists": [
+        "עומר אדם"
+      ],
+      "releaseDate": "2026-02-19",
+      "releaseIds": [
+        "apple-release-1877927148"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עומר אדם",
+        "isIsraeli": true,
+        "monthlyListeners": 1228431,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1877927148?i=1877927802",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1877927804",
+      "title": "תקופה חרא",
+      "artists": [
+        "עומר אדם"
+      ],
+      "releaseDate": "2026-02-19",
+      "releaseIds": [
+        "apple-release-1877927148"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עומר אדם",
+        "isIsraeli": true,
+        "monthlyListeners": 1228431,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1877927148?i=1877927804",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1877927805",
+      "title": "אבא אבא אבא",
+      "artists": [
+        "עומר אדם"
+      ],
+      "releaseDate": "2026-02-19",
+      "releaseIds": [
+        "apple-release-1877927148"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עומר אדם",
+        "isIsraeli": true,
+        "monthlyListeners": 1228431,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1877927148?i=1877927805",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1877927806",
+      "title": "להינשא הלילה (רצועת בונוס)",
+      "artists": [
+        "עומר אדם"
+      ],
+      "releaseDate": "2026-02-19",
+      "releaseIds": [
+        "apple-release-1877927148"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עומר אדם",
+        "isIsraeli": true,
+        "monthlyListeners": 1228431,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1877927148?i=1877927806",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1877927808",
+      "title": "להשתטות (רצועת בונוס)",
+      "artists": [
+        "עומר אדם"
+      ],
+      "releaseDate": "2026-02-19",
+      "releaseIds": [
+        "apple-release-1877927148"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עומר אדם",
+        "isIsraeli": true,
+        "monthlyListeners": 1228431,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1877927148?i=1877927808",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1886466608",
+      "title": "שיר לממ\"ד",
+      "artists": [
+        "אודיה"
+      ],
+      "releaseDate": "2026-03-24",
+      "releaseIds": [
+        "apple-release-1886466607"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אודיה",
+        "isIsraeli": true,
+        "monthlyListeners": 770200,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1886466607?i=1886466608",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://bagels.tv/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%A9%D7%99%D7%A8-%D7%9C%D7%9E%D7%9E%D7%93/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1887323373",
+      "title": "עושה שלום",
+      "artists": [
+        "מתן לוי",
+        "עדן חסון"
+      ],
+      "releaseDate": "2026-03-24",
+      "releaseIds": [
+        "apple-release-1887323372"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עדן חסון",
+        "isIsraeli": true,
+        "monthlyListeners": 828214,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1887323372?i=1887323373",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://yosmusic.com/%D7%A2%D7%93%D7%9F-%D7%97%D7%A1%D7%95%D7%9F-%D7%95%D7%9E%D7%AA%D7%9F-%D7%9C%D7%95%D7%99-%D7%A2%D7%95%D7%A9%D7%94-%D7%A9%D7%9C%D7%95%D7%9D/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6767286999",
+      "title": "כל הברכה שלי",
+      "artists": [
+        "עדן חסון"
+      ],
+      "releaseDate": "2026-05-10",
+      "releaseIds": [
+        "apple-release-1896459483"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עדן חסון",
+        "isIsraeli": true,
+        "monthlyListeners": 828214,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1896459483?i=6767286999",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.youtube.com/watch?v=xv6AXXmqWDA",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6768723553",
+      "title": "איך שהיא רוקדת",
+      "artists": [
+        "עדן חסון",
+        "אופק אדנק",
+        "אגם בוחבוט"
+      ],
+      "releaseDate": "2026-05-19",
+      "releaseIds": [
+        "apple-release-6768723548"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עדן חסון",
+        "isIsraeli": true,
+        "monthlyListeners": 828214,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6768723548?i=6768723553",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.youtube.com/watch?v=eaqW5eQXTdM",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6769336023",
+      "title": "השם יעזור",
+      "artists": [
+        "אודיה"
+      ],
+      "releaseDate": "2026-05-17",
+      "releaseIds": [
+        "apple-release-6769335752"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אודיה",
+        "isIsraeli": true,
+        "monthlyListeners": 770200,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6769335752?i=6769336023",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6769336030",
+      "title": "עשר רמות מעליו",
+      "artists": [
+        "אודיה"
+      ],
+      "releaseDate": "2026-05-17",
+      "releaseIds": [
+        "apple-release-6769335752"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אודיה",
+        "isIsraeli": true,
+        "monthlyListeners": 770200,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6769335752?i=6769336030",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6769336032",
+      "title": "לא תיקח לי את האושר",
+      "artists": [
+        "אודיה"
+      ],
+      "releaseDate": "2026-05-17",
+      "releaseIds": [
+        "apple-release-6769335752"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אודיה",
+        "isIsraeli": true,
+        "monthlyListeners": 770200,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6769335752?i=6769336032",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6769336039",
+      "title": "אתה ער",
+      "artists": [
+        "אודיה"
+      ],
+      "releaseDate": "2026-05-17",
+      "releaseIds": [
+        "apple-release-6769335752"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אודיה",
+        "isIsraeli": true,
+        "monthlyListeners": 770200,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6769335752?i=6769336039",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6769336041",
+      "title": "דובאי (בהשתתפות גל אדם)",
+      "artists": [
+        "אודיה"
+      ],
+      "releaseDate": "2026-05-17",
+      "releaseIds": [
+        "apple-release-6769335752"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אודיה",
+        "isIsraeli": true,
+        "monthlyListeners": 770200,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6769335752?i=6769336041",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6769336042",
+      "title": "דיזנגוף 99",
+      "artists": [
+        "אודיה"
+      ],
+      "releaseDate": "2026-05-17",
+      "releaseIds": [
+        "apple-release-6769335752"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אודיה",
+        "isIsraeli": true,
+        "monthlyListeners": 770200,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6769335752?i=6769336042",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6769336044",
+      "title": "בוקר טוב אהבה שלי (בהשתתפות שיר קורן)",
+      "artists": [
+        "אודיה"
+      ],
+      "releaseDate": "2026-05-17",
+      "releaseIds": [
+        "apple-release-6769335752"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אודיה",
+        "isIsraeli": true,
+        "monthlyListeners": 770200,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6769335752?i=6769336044",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6769336564",
+      "title": "נדנדה",
+      "artists": [
+        "אודיה"
+      ],
+      "releaseDate": "2026-05-17",
+      "releaseIds": [
+        "apple-release-6769335752"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אודיה",
+        "isIsraeli": true,
+        "monthlyListeners": 770200,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6769335752?i=6769336564",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6769336566",
+      "title": "לשמור סודות",
+      "artists": [
+        "אודיה"
+      ],
+      "releaseDate": "2026-05-17",
+      "releaseIds": [
+        "apple-release-6769335752"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אודיה",
+        "isIsraeli": true,
+        "monthlyListeners": 770200,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6769335752?i=6769336566",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6769336567",
+      "title": "השקיעה האחרונה",
+      "artists": [
+        "אודיה"
+      ],
+      "releaseDate": "2026-05-17",
+      "releaseIds": [
+        "apple-release-6769335752"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אודיה",
+        "isIsraeli": true,
+        "monthlyListeners": 770200,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6769335752?i=6769336567",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6778542209",
+      "title": "הלוואי שטוב לך",
+      "artists": [
+        "עדן חסון"
+      ],
+      "releaseDate": "2026-06-10",
+      "releaseIds": [
+        "apple-release-6778542208"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עדן חסון",
+        "isIsraeli": true,
+        "monthlyListeners": 828214,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6778542208?i=6778542209",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.youtube.com/watch?v=XAspw-uiHZc",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6791788922",
+      "title": "כולי תפילה",
+      "artists": [
+        "עדן חסון",
+        "מידד טסה"
+      ],
+      "releaseDate": "2026-07-26",
+      "releaseIds": [
+        "apple-release-6791788909"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "עדן חסון",
+        "isIsraeli": true,
+        "monthlyListeners": 828214,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6791788909?i=6791788922",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        },
+        {
+          "label": "מידע על הריליס",
+          "url": "https://www.kipa.co.il/%D7%91%D7%A8%D7%A0%D7%96%D7%94/1228524-0/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    }
+  ]
 }

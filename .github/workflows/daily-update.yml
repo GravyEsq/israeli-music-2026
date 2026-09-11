@@ -1,4 +1,4 @@
-name: Daily release update placeholder
+name: Daily release discovery
 
 on:
   schedule:
@@ -9,25 +9,55 @@ permissions:
   contents: read
 
 concurrency:
-  group: daily-release-update
+  group: release-discovery
   cancel-in-progress: false
 
 jobs:
-  validate-placeholder:
+  update:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    outputs:
+      failed: ${{ steps.collect.outcome == 'failure' }}
     steps:
       - uses: actions/checkout@v4
         with:
-          persist-credentials: false
+          ref: main
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
           cache: npm
       - run: npm ci
-      - run: npm run update:data
       - run: npm run check
-      - name: Verify placeholder did not modify data
-        run: git diff --exit-code -- public/data
-      - name: Explain current status
-        run: echo 'Validation completed. Collection is not configured; no data was fetched or changed.' >> "$GITHUB_STEP_SUMMARY"
+      - name: Collect and verify
+        id: collect
+        continue-on-error: true
+        run: npm run update:data
+      - run: npm run check
+      - name: Commit catalog and check status
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/data/releases.json public/data/status.json data/pending-review.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update verified catalog and discovery status'
+            git push origin HEAD:main
+          fi
+      - name: Run summary
+        run: node scripts/update-summary.mjs >> "$GITHUB_STEP_SUMMARY"
+  publish:
+    needs: update
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/pages.yml
+  report-failure:
+    needs: [update, publish]
+    if: always() && needs.update.outputs.failed == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          echo 'Source check failed. The last verified catalog was preserved.'
+          exit 1

@@ -5,4 +5,5 @@ node_modules/
 .sites-runtime/
 coverage/
 *.log
+*.tmp
 .DS_Store

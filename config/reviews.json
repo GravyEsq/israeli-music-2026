@@ -1,0 +1,741 @@
+[
+  {
+    "collectionId": 6769335752,
+    "fingerprint": "9f553bfcdea8661dcc6eddb723fa538ae82dc92cdfd973484f061baf20fa5e5c",
+    "qualifyingArtist": "odeya",
+    "type": "album",
+    "title": "השם יעזור",
+    "artists": [
+      "אודיה"
+    ],
+    "releaseDate": "2026-05-17",
+    "genres": [
+      "פופ"
+    ],
+    "reviewedAt": "2026-09-11T21:31:11.169Z",
+    "reviewNote": "Manual pilot review of Apple catalog credits/dates and Hebrew release descriptions. No automatic language inference. New recordings include officially released covers; live/EP variants remain queued.",
+    "sources": [
+      {
+        "label": "מידע על הריליס",
+        "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+        "checkedAt": "2026-09-11T21:31:11.169Z"
+      }
+    ],
+    "tracks": [
+      {
+        "trackId": 6769336023,
+        "recordingId": "apple-recording-6769336023",
+        "title": "השם יעזור",
+        "artists": [
+          "אודיה"
+        ],
+        "firstReleaseDate": "2026-05-17",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 6769336030,
+        "recordingId": "apple-recording-6769336030",
+        "title": "עשר רמות מעליו",
+        "artists": [
+          "אודיה"
+        ],
+        "firstReleaseDate": "2026-05-17",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 6769336032,
+        "recordingId": "apple-recording-6769336032",
+        "title": "לא תיקח לי את האושר",
+        "artists": [
+          "אודיה"
+        ],
+        "firstReleaseDate": "2026-05-17",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 6769336039,
+        "recordingId": "apple-recording-6769336039",
+        "title": "אתה ער",
+        "artists": [
+          "אודיה"
+        ],
+        "firstReleaseDate": "2026-05-17",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 6769336041,
+        "recordingId": "apple-recording-6769336041",
+        "title": "דובאי (בהשתתפות גל אדם)",
+        "artists": [
+          "אודיה"
+        ],
+        "firstReleaseDate": "2026-05-17",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 6769336042,
+        "recordingId": "apple-recording-6769336042",
+        "title": "דיזנגוף 99",
+        "artists": [
+          "אודיה"
+        ],
+        "firstReleaseDate": "2026-05-17",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 6769336044,
+        "recordingId": "apple-recording-6769336044",
+        "title": "בוקר טוב אהבה שלי (בהשתתפות שיר קורן)",
+        "artists": [
+          "אודיה"
+        ],
+        "firstReleaseDate": "2026-05-17",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 6769336564,
+        "recordingId": "apple-recording-6769336564",
+        "title": "נדנדה",
+        "artists": [
+          "אודיה"
+        ],
+        "firstReleaseDate": "2026-05-17",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 6769336566,
+        "recordingId": "apple-recording-6769336566",
+        "title": "לשמור סודות",
+        "artists": [
+          "אודיה"
+        ],
+        "firstReleaseDate": "2026-05-17",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 6769336567,
+        "recordingId": "apple-recording-6769336567",
+        "title": "השקיעה האחרונה",
+        "artists": [
+          "אודיה"
+        ],
+        "firstReleaseDate": "2026-05-17",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%99%D7%A2%D7%96%D7%95%D7%A8/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      }
+    ]
+  },
+  {
+    "collectionId": 1877927148,
+    "fingerprint": "e19bed5af8ca3a70f1038a034f46704c289be51cdff9a8816912ce962023b519",
+    "qualifyingArtist": "omer-adam",
+    "type": "album",
+    "title": "חלק מהנצח",
+    "artists": [
+      "עומר אדם"
+    ],
+    "releaseDate": "2026-02-19",
+    "genres": [
+      "פופ"
+    ],
+    "reviewedAt": "2026-09-11T21:31:11.169Z",
+    "reviewNote": "Manual pilot review of Apple catalog credits/dates and Hebrew release descriptions. No automatic language inference. New recordings include officially released covers; live/EP variants remain queued.",
+    "sources": [
+      {
+        "label": "מידע על הריליס",
+        "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+        "checkedAt": "2026-09-11T21:31:11.169Z"
+      }
+    ],
+    "tracks": [
+      {
+        "trackId": 1877927564,
+        "recordingId": "apple-recording-1877927564",
+        "title": "משפחה וכבוד",
+        "artists": [
+          "עומר אדם"
+        ],
+        "firstReleaseDate": "2026-02-19",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 1877927573,
+        "recordingId": "apple-recording-1877927573",
+        "title": "פלאזה אתנה",
+        "artists": [
+          "עומר אדם"
+        ],
+        "firstReleaseDate": "2026-02-19",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 1877927577,
+        "recordingId": "apple-recording-1877927577",
+        "title": "אלבי",
+        "artists": [
+          "עומר אדם"
+        ],
+        "firstReleaseDate": "2026-02-19",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 1877927578,
+        "recordingId": "apple-recording-1877927578",
+        "title": "אורות כחולים",
+        "artists": [
+          "עומר אדם"
+        ],
+        "firstReleaseDate": "2026-02-19",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 1877927579,
+        "recordingId": "apple-recording-1877927579",
+        "title": "יש יותר מדי שירים היום",
+        "artists": [
+          "עומר אדם"
+        ],
+        "firstReleaseDate": "2026-02-19",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 1877927580,
+        "recordingId": "apple-recording-1877927580",
+        "title": "לילות יפים",
+        "artists": [
+          "עומר אדם",
+          "גל אדם",
+          "רואי אדם"
+        ],
+        "firstReleaseDate": "2026-02-19",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 1877927581,
+        "recordingId": "apple-recording-1877927581",
+        "title": "שירתו של החורף",
+        "artists": [
+          "עומר אדם"
+        ],
+        "firstReleaseDate": "2026-02-19",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 1877927585,
+        "recordingId": "apple-recording-1877927585",
+        "title": "פינה של שקט",
+        "artists": [
+          "עומר אדם"
+        ],
+        "firstReleaseDate": "2026-02-19",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 1877927587,
+        "recordingId": "apple-recording-1877927587",
+        "title": "מישהו שמזכיר אותי",
+        "artists": [
+          "עומר אדם"
+        ],
+        "firstReleaseDate": "2026-02-19",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 1877927798,
+        "recordingId": "apple-recording-1877927798",
+        "title": "ריו דה ז'נרו",
+        "artists": [
+          "עומר אדם"
+        ],
+        "firstReleaseDate": "2026-02-19",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 1877927800,
+        "recordingId": "apple-recording-1877927800",
+        "title": "בן 32",
+        "artists": [
+          "עומר אדם"
+        ],
+        "firstReleaseDate": "2026-02-19",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 1877927801,
+        "recordingId": "apple-recording-1877927801",
+        "title": "מאפיה",
+        "artists": [
+          "עומר אדם"
+        ],
+        "firstReleaseDate": "2026-02-19",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 1877927802,
+        "recordingId": "apple-recording-1877927802",
+        "title": "הסוף הזה",
+        "artists": [
+          "עומר אדם"
+        ],
+        "firstReleaseDate": "2026-02-19",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 1877927804,
+        "recordingId": "apple-recording-1877927804",
+        "title": "תקופה חרא",
+        "artists": [
+          "עומר אדם"
+        ],
+        "firstReleaseDate": "2026-02-19",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 1877927805,
+        "recordingId": "apple-recording-1877927805",
+        "title": "אבא אבא אבא",
+        "artists": [
+          "עומר אדם"
+        ],
+        "firstReleaseDate": "2026-02-19",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 1877927806,
+        "recordingId": "apple-recording-1877927806",
+        "title": "להינשא הלילה (רצועת בונוס)",
+        "artists": [
+          "עומר אדם"
+        ],
+        "firstReleaseDate": "2026-02-19",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      {
+        "trackId": 1877927808,
+        "recordingId": "apple-recording-1877927808",
+        "title": "להשתטות (רצועת בונוס)",
+        "artists": [
+          "עומר אדם"
+        ],
+        "firstReleaseDate": "2026-02-19",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.mako.co.il/news-entertainment/2026_q1/Article-f2fbb55cc457c91026.htm",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      }
+    ]
+  },
+  {
+    "collectionId": 1873987890,
+    "fingerprint": "988ce3dc9eb14d5d2e76a9ef95dd30375b0008bf424854772ebf63fc8d7c1b80",
+    "qualifyingArtist": "eden-hason",
+    "type": "single",
+    "title": "חוזר לעצמי",
+    "artists": [
+      "עדן חסון"
+    ],
+    "releaseDate": "2026-02-04",
+    "genres": [],
+    "reviewedAt": "2026-09-11T21:31:11.169Z",
+    "reviewNote": "Manual pilot review of Apple catalog credits/dates and Hebrew release descriptions. No automatic language inference. New recordings include officially released covers; live/EP variants remain queued.",
+    "sources": [
+      {
+        "label": "מידע על הריליס",
+        "url": "https://www.youtube.com/watch?v=PaIAGZjPKA8",
+        "checkedAt": "2026-09-11T21:31:11.169Z"
+      }
+    ],
+    "tracks": [
+      {
+        "trackId": 1873987900,
+        "recordingId": "apple-recording-1873987900",
+        "title": "חוזר לעצמי",
+        "artists": [
+          "עדן חסון"
+        ],
+        "firstReleaseDate": "2026-02-04",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.youtube.com/watch?v=PaIAGZjPKA8",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      }
+    ]
+  },
+  {
+    "collectionId": 1896459483,
+    "fingerprint": "70fd8b906ed7dd69e4ad40d097b959ebfc6a1b665053ccfc12787edf43779c68",
+    "qualifyingArtist": "eden-hason",
+    "type": "single",
+    "title": "כל הברכה שלי",
+    "artists": [
+      "עדן חסון"
+    ],
+    "releaseDate": "2026-05-10",
+    "genres": [],
+    "reviewedAt": "2026-09-11T21:31:11.169Z",
+    "reviewNote": "Manual pilot review of Apple catalog credits/dates and Hebrew release descriptions. No automatic language inference. New recordings include officially released covers; live/EP variants remain queued.",
+    "sources": [
+      {
+        "label": "מידע על הריליס",
+        "url": "https://www.youtube.com/watch?v=xv6AXXmqWDA",
+        "checkedAt": "2026-09-11T21:31:11.169Z"
+      }
+    ],
+    "tracks": [
+      {
+        "trackId": 6767286999,
+        "recordingId": "apple-recording-6767286999",
+        "title": "כל הברכה שלי",
+        "artists": [
+          "עדן חסון"
+        ],
+        "firstReleaseDate": "2026-05-10",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.youtube.com/watch?v=xv6AXXmqWDA",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      }
+    ]
+  },
+  {
+    "collectionId": 6768723548,
+    "fingerprint": "1e9b9a310781e79c5d1be4786970d27490319bda45e1926dfab5d7688fd6ba8d",
+    "qualifyingArtist": "eden-hason",
+    "type": "single",
+    "title": "איך שהיא רוקדת",
+    "artists": [
+      "עדן חסון",
+      "אופק אדנק",
+      "אגם בוחבוט"
+    ],
+    "releaseDate": "2026-05-19",
+    "genres": [
+      "פופ"
+    ],
+    "reviewedAt": "2026-09-11T21:31:11.169Z",
+    "reviewNote": "Manual pilot review of Apple catalog credits/dates and Hebrew release descriptions. No automatic language inference. New recordings include officially released covers; live/EP variants remain queued.",
+    "sources": [
+      {
+        "label": "מידע על הריליס",
+        "url": "https://www.youtube.com/watch?v=eaqW5eQXTdM",
+        "checkedAt": "2026-09-11T21:31:11.169Z"
+      }
+    ],
+    "tracks": [
+      {
+        "trackId": 6768723553,
+        "recordingId": "apple-recording-6768723553",
+        "title": "איך שהיא רוקדת",
+        "artists": [
+          "עדן חסון",
+          "אופק אדנק",
+          "אגם בוחבוט"
+        ],
+        "firstReleaseDate": "2026-05-19",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.youtube.com/watch?v=eaqW5eQXTdM",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      }
+    ]
+  },
+  {
+    "collectionId": 1887323372,
+    "fingerprint": "bfac3db04e704fd0b794d5e687dedecf46eb731f24525c36ea6fce0438570302",
+    "qualifyingArtist": "eden-hason",
+    "type": "single",
+    "title": "עושה שלום",
+    "artists": [
+      "מתן לוי",
+      "עדן חסון"
+    ],
+    "releaseDate": "2026-03-24",
+    "genres": [
+      "פופ"
+    ],
+    "reviewedAt": "2026-09-11T21:31:11.169Z",
+    "reviewNote": "Manual pilot review of Apple catalog credits/dates and Hebrew release descriptions. No automatic language inference. New recordings include officially released covers; live/EP variants remain queued.",
+    "sources": [
+      {
+        "label": "מידע על הריליס",
+        "url": "https://yosmusic.com/%D7%A2%D7%93%D7%9F-%D7%97%D7%A1%D7%95%D7%9F-%D7%95%D7%9E%D7%AA%D7%9F-%D7%9C%D7%95%D7%99-%D7%A2%D7%95%D7%A9%D7%94-%D7%A9%D7%9C%D7%95%D7%9D/",
+        "checkedAt": "2026-09-11T21:31:11.169Z"
+      }
+    ],
+    "tracks": [
+      {
+        "trackId": 1887323373,
+        "recordingId": "apple-recording-1887323373",
+        "title": "עושה שלום",
+        "artists": [
+          "מתן לוי",
+          "עדן חסון"
+        ],
+        "firstReleaseDate": "2026-03-24",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://yosmusic.com/%D7%A2%D7%93%D7%9F-%D7%97%D7%A1%D7%95%D7%9F-%D7%95%D7%9E%D7%AA%D7%9F-%D7%9C%D7%95%D7%99-%D7%A2%D7%95%D7%A9%D7%94-%D7%A9%D7%9C%D7%95%D7%9D/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      }
+    ]
+  },
+  {
+    "collectionId": 6778542208,
+    "fingerprint": "10b79e1badfbfe1a4c8ca0b0a276b33b3270b459229b28198c3c64a1727b08de",
+    "qualifyingArtist": "eden-hason",
+    "type": "single",
+    "title": "הלוואי שטוב לך",
+    "artists": [
+      "עדן חסון"
+    ],
+    "releaseDate": "2026-06-10",
+    "genres": [],
+    "reviewedAt": "2026-09-11T21:31:11.169Z",
+    "reviewNote": "Manual pilot review of Apple catalog credits/dates and Hebrew release descriptions. No automatic language inference. New recordings include officially released covers; live/EP variants remain queued.",
+    "sources": [
+      {
+        "label": "מידע על הריליס",
+        "url": "https://www.youtube.com/watch?v=XAspw-uiHZc",
+        "checkedAt": "2026-09-11T21:31:11.169Z"
+      }
+    ],
+    "tracks": [
+      {
+        "trackId": 6778542209,
+        "recordingId": "apple-recording-6778542209",
+        "title": "הלוואי שטוב לך",
+        "artists": [
+          "עדן חסון"
+        ],
+        "firstReleaseDate": "2026-06-10",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.youtube.com/watch?v=XAspw-uiHZc",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      }
+    ]
+  },
+  {
+    "collectionId": 6791788909,
+    "fingerprint": "29cf4e6440d4b8594b2498530b4e0eee54617abeea4957c0a5be2633834de82a",
+    "qualifyingArtist": "eden-hason",
+    "type": "single",
+    "title": "כולי תפילה",
+    "artists": [
+      "עדן חסון",
+      "מידד טסה"
+    ],
+    "releaseDate": "2026-07-26",
+    "genres": [
+      "פופ"
+    ],
+    "reviewedAt": "2026-09-11T21:31:11.169Z",
+    "reviewNote": "Manual pilot review of Apple catalog credits/dates and Hebrew release descriptions. No automatic language inference. New recordings include officially released covers; live/EP variants remain queued.",
+    "sources": [
+      {
+        "label": "מידע על הריליס",
+        "url": "https://www.kipa.co.il/%D7%91%D7%A8%D7%A0%D7%96%D7%94/1228524-0/",
+        "checkedAt": "2026-09-11T21:31:11.169Z"
+      }
+    ],
+    "tracks": [
+      {
+        "trackId": 6791788922,
+        "recordingId": "apple-recording-6791788922",
+        "title": "כולי תפילה",
+        "artists": [
+          "עדן חסון",
+          "מידד טסה"
+        ],
+        "firstReleaseDate": "2026-07-26",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://www.kipa.co.il/%D7%91%D7%A8%D7%A0%D7%96%D7%94/1228524-0/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      }
+    ]
+  },
+  {
+    "collectionId": 1886466607,
+    "fingerprint": "49d46f7f1c17ffc13558c0b690ac840db7f538104a8add99924e7daf8cd7ae17",
+    "qualifyingArtist": "odeya",
+    "type": "single",
+    "title": "שיר לממ\"ד",
+    "artists": [
+      "אודיה"
+    ],
+    "releaseDate": "2026-03-24",
+    "genres": [
+      "פופ"
+    ],
+    "reviewedAt": "2026-09-11T21:31:11.169Z",
+    "reviewNote": "Manual pilot review of Apple catalog credits/dates and Hebrew release descriptions. No automatic language inference. New recordings include officially released covers; live/EP variants remain queued.",
+    "sources": [
+      {
+        "label": "מידע על הריליס",
+        "url": "https://bagels.tv/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%A9%D7%99%D7%A8-%D7%9C%D7%9E%D7%9E%D7%93/",
+        "checkedAt": "2026-09-11T21:31:11.169Z"
+      }
+    ],
+    "tracks": [
+      {
+        "trackId": 1886466608,
+        "recordingId": "apple-recording-1886466608",
+        "title": "שיר לממ\"ד",
+        "artists": [
+          "אודיה"
+        ],
+        "firstReleaseDate": "2026-03-24",
+        "isrc": null,
+        "languageSource": {
+          "label": "מידע על הריליס",
+          "url": "https://bagels.tv/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%A9%D7%99%D7%A8-%D7%9C%D7%9E%D7%9E%D7%93/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      }
+    ]
+  }
+]
