@@ -17,6 +17,14 @@
       "reason": "needs-language-primary-artist-and-recording-review"
     },
     {
+      "collectionId": 6780154315,
+      "title": "זן נדיר - Single",
+      "providerArtist": "Osher Cohen & אמיר שורוש",
+      "releaseDate": "2026-06-15",
+      "url": "https://music.apple.com/il/album/6780154315",
+      "reason": "needs-language-primary-artist-and-recording-review"
+    },
+    {
       "collectionId": 6785632911,
       "title": "מדאם + יכולה לבד (לייב אצטדיון ר\"ג) - Single",
       "providerArtist": "Odeya & Noam Bettan",
@@ -38,6 +46,14 @@
       "providerArtist": "Eden Hason & Agam Buhbut",
       "releaseDate": "2026-06-30",
       "url": "https://music.apple.com/il/album/6785885925",
+      "reason": "needs-language-primary-artist-and-recording-review"
+    },
+    {
+      "collectionId": 6790714398,
+      "title": "בים של דמעות (גרסת 2026) - Single",
+      "providerArtist": "אילן כהן & Osher Cohen",
+      "releaseDate": "2026-07-14",
+      "url": "https://music.apple.com/il/album/6790714398",
       "reason": "needs-language-primary-artist-and-recording-review"
     },
     {
@@ -78,14 +94,6 @@
       "providerArtist": "Reef RL",
       "releaseDate": "2026-08-30",
       "url": "https://music.apple.com/il/album/6806920688",
-      "reason": "needs-language-primary-artist-and-recording-review"
-    },
-    {
-      "collectionId": 6809531913,
-      "title": "השם עזר - EP",
-      "providerArtist": "Odeya",
-      "releaseDate": "2026-09-09",
-      "url": "https://music.apple.com/il/album/6809531913",
       "reason": "needs-language-primary-artist-and-recording-review"
     }
   ]

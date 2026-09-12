@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "year": 2026,
-  "updatedAt": "2026-09-11T21:31:11.169Z",
+  "updatedAt": "2026-09-12T09:10:04.740Z",
   "releases": [
     {
       "id": "apple-release-1873987890",
@@ -34,6 +34,42 @@
           "label": "מידע על הריליס",
           "url": "https://www.youtube.com/watch?v=PaIAGZjPKA8",
           "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-release-1876888193",
+      "type": "ep",
+      "title": "Life Lately",
+      "artists": [
+        "אושר כהן"
+      ],
+      "releaseDate": "2026-02-16",
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אושר כהן",
+        "isIsraeli": true,
+        "monthlyListeners": 806725,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1876888193",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        },
+        {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-life-lately-ep/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
         }
       ]
     },
@@ -219,6 +255,42 @@
       ]
     },
     {
+      "id": "apple-release-6769160540",
+      "type": "single",
+      "title": "Wedding Songs",
+      "artists": [
+        "אושר כהן"
+      ],
+      "releaseDate": "2026-05-17",
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אושר כהן",
+        "isIsraeli": true,
+        "monthlyListeners": 806725,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6769160540",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        },
+        {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-wedding-song/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      ]
+    },
+    {
       "id": "apple-release-6769335752",
       "type": "album",
       "title": "השם יעזור",
@@ -324,6 +396,78 @@
           "checkedAt": "2026-09-11T21:31:11.169Z"
         }
       ]
+    },
+    {
+      "id": "apple-release-6802323504",
+      "type": "ep",
+      "title": "אוגוסט דאמפ 2026",
+      "artists": [
+        "אושר כהן"
+      ],
+      "releaseDate": "2026-08-20",
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אושר כהן",
+        "isIsraeli": true,
+        "monthlyListeners": 806725,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6802323504",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        },
+        {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-%D7%90%D7%95%D7%92%D7%95%D7%A1%D7%98-%D7%93%D7%90%D7%9E%D7%A4-2026/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-release-6809531913",
+      "type": "ep",
+      "title": "השם עזר",
+      "artists": [
+        "אודיה"
+      ],
+      "releaseDate": "2026-09-09",
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אודיה",
+        "isIsraeli": true,
+        "monthlyListeners": 770200,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6809531913",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        },
+        {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%A2%D7%96%D7%A8/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      ]
     }
   ],
   "songs": [
@@ -361,6 +505,162 @@
           "label": "מידע על הריליס",
           "url": "https://www.youtube.com/watch?v=PaIAGZjPKA8",
           "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1876888194",
+      "title": "בכל יום שאיבדתי אותך",
+      "artists": [
+        "אושר כהן"
+      ],
+      "releaseDate": "2026-02-16",
+      "releaseIds": [
+        "apple-release-1876888193"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אושר כהן",
+        "isIsraeli": true,
+        "monthlyListeners": 806725,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1876888193?i=1876888194",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        },
+        {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-life-lately-ep/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1876888195",
+      "title": "לא שם",
+      "artists": [
+        "אושר כהן"
+      ],
+      "releaseDate": "2026-02-16",
+      "releaseIds": [
+        "apple-release-1876888193"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אושר כהן",
+        "isIsraeli": true,
+        "monthlyListeners": 806725,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1876888193?i=1876888195",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        },
+        {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-life-lately-ep/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1876888196",
+      "title": "שונא את תל אביב",
+      "artists": [
+        "אושר כהן"
+      ],
+      "releaseDate": "2026-02-16",
+      "releaseIds": [
+        "apple-release-1876888193"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אושר כהן",
+        "isIsraeli": true,
+        "monthlyListeners": 806725,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1876888193?i=1876888196",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        },
+        {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-life-lately-ep/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-1876888651",
+      "title": "כולם גנבים",
+      "artists": [
+        "אושר כהן"
+      ],
+      "releaseDate": "2026-02-16",
+      "releaseIds": [
+        "apple-release-1876888193"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אושר כהן",
+        "isIsraeli": true,
+        "monthlyListeners": 806725,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/1876888193?i=1876888651",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        },
+        {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-life-lately-ep/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
         }
       ]
     },
@@ -1187,6 +1487,84 @@
       ]
     },
     {
+      "id": "apple-recording-6769160541",
+      "title": "בדיוק ככה",
+      "artists": [
+        "אושר כהן"
+      ],
+      "releaseDate": "2026-05-17",
+      "releaseIds": [
+        "apple-release-6769160540"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אושר כהן",
+        "isIsraeli": true,
+        "monthlyListeners": 806725,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6769160540?i=6769160541",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        },
+        {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-wedding-song/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6769160542",
+      "title": "לעולם ועד",
+      "artists": [
+        "אושר כהן"
+      ],
+      "releaseDate": "2026-05-17",
+      "releaseIds": [
+        "apple-release-6769160540"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אושר כהן",
+        "isIsraeli": true,
+        "monthlyListeners": 806725,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6769160540?i=6769160542",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        },
+        {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-wedding-song/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      ]
+    },
+    {
       "id": "apple-recording-6769336023",
       "title": "השם יעזור",
       "artists": [
@@ -1650,6 +2028,358 @@
           "label": "מידע על הריליס",
           "url": "https://www.kipa.co.il/%D7%91%D7%A8%D7%A0%D7%96%D7%94/1228524-0/",
           "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6802323505",
+      "title": "דאון",
+      "artists": [
+        "אושר כהן"
+      ],
+      "releaseDate": "2026-08-20",
+      "releaseIds": [
+        "apple-release-6802323504"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אושר כהן",
+        "isIsraeli": true,
+        "monthlyListeners": 806725,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6802323504?i=6802323505",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        },
+        {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-%D7%90%D7%95%D7%92%D7%95%D7%A1%D7%98-%D7%93%D7%90%D7%9E%D7%A4-2026/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6802323506",
+      "title": "יום הולדת",
+      "artists": [
+        "אושר כהן"
+      ],
+      "releaseDate": "2026-08-20",
+      "releaseIds": [
+        "apple-release-6802323504"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אושר כהן",
+        "isIsraeli": true,
+        "monthlyListeners": 806725,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6802323504?i=6802323506",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        },
+        {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-%D7%90%D7%95%D7%92%D7%95%D7%A1%D7%98-%D7%93%D7%90%D7%9E%D7%A4-2026/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6802323507",
+      "title": "הכלה של המדינה",
+      "artists": [
+        "אושר כהן"
+      ],
+      "releaseDate": "2026-08-20",
+      "releaseIds": [
+        "apple-release-6802323504"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אושר כהן",
+        "isIsraeli": true,
+        "monthlyListeners": 806725,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6802323504?i=6802323507",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        },
+        {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-%D7%90%D7%95%D7%92%D7%95%D7%A1%D7%98-%D7%93%D7%90%D7%9E%D7%A4-2026/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6802323508",
+      "title": "פרח",
+      "artists": [
+        "אושר כהן"
+      ],
+      "releaseDate": "2026-08-20",
+      "releaseIds": [
+        "apple-release-6802323504"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אושר כהן",
+        "isIsraeli": true,
+        "monthlyListeners": 806725,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6802323504?i=6802323508",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        },
+        {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-%D7%90%D7%95%D7%92%D7%95%D7%A1%D7%98-%D7%93%D7%90%D7%9E%D7%A4-2026/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6809531914",
+      "title": "דילן - 3898*",
+      "artists": [
+        "אודיה"
+      ],
+      "releaseDate": "2026-09-09",
+      "releaseIds": [
+        "apple-release-6809531913"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אודיה",
+        "isIsraeli": true,
+        "monthlyListeners": 770200,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6809531913?i=6809531914",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        },
+        {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%A2%D7%96%D7%A8/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6809531915",
+      "title": "פאפית",
+      "artists": [
+        "אודיה"
+      ],
+      "releaseDate": "2026-09-09",
+      "releaseIds": [
+        "apple-release-6809531913"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אודיה",
+        "isIsraeli": true,
+        "monthlyListeners": 770200,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6809531913?i=6809531915",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        },
+        {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%A2%D7%96%D7%A8/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6809531916",
+      "title": "ואני בחסדך בטחתי",
+      "artists": [
+        "אודיה",
+        "בן צור"
+      ],
+      "releaseDate": "2026-09-09",
+      "releaseIds": [
+        "apple-release-6809531913"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אודיה",
+        "isIsraeli": true,
+        "monthlyListeners": 770200,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6809531913?i=6809531916",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        },
+        {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%A2%D7%96%D7%A8/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6809531918",
+      "title": "נמשכת לעצמי",
+      "artists": [
+        "אודיה"
+      ],
+      "releaseDate": "2026-09-09",
+      "releaseIds": [
+        "apple-release-6809531913"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אודיה",
+        "isIsraeli": true,
+        "monthlyListeners": 770200,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6809531913?i=6809531918",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        },
+        {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%A2%D7%96%D7%A8/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      ]
+    },
+    {
+      "id": "apple-recording-6809531919",
+      "title": "רוצי ילדה",
+      "artists": [
+        "אודיה"
+      ],
+      "releaseDate": "2026-09-09",
+      "releaseIds": [
+        "apple-release-6809531913"
+      ],
+      "isrc": null,
+      "language": "he",
+      "genres": [
+        "פופ"
+      ],
+      "popularity": null,
+      "eligibility": {
+        "artist": "אודיה",
+        "isIsraeli": true,
+        "monthlyListeners": 770200,
+        "source": {
+          "label": "Spotify · תצפית בדף האמן",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA/",
+          "checkedAt": "2026-09-11T21:31:11.169Z"
+        }
+      },
+      "sources": [
+        {
+          "label": "Apple Music",
+          "url": "https://music.apple.com/il/album/6809531913?i=6809531919",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        },
+        {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%A2%D7%96%D7%A8/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
         }
       ]
     }

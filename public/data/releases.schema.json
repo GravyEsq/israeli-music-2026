@@ -58,7 +58,7 @@
       "required": ["id", "type", "title", "artists", "releaseDate", "language", "genres", "popularity", "sources", "eligibility"],
       "properties": {
         "id": { "$ref": "#/definitions/id" },
-        "type": { "enum": ["single", "album"] },
+        "type": { "enum": ["single", "album", "ep"] },
         "title": { "$ref": "#/definitions/text" },
         "artists": { "$ref": "#/definitions/names" },
         "releaseDate": { "$ref": "#/definitions/date" },

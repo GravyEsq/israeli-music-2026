@@ -36,7 +36,7 @@ function createTable(data, { id, kind, title, description }) {
   const scroll = el('div', null, 'table-scroll'); scroll.tabIndex = 0; scroll.setAttribute('role', 'region'); scroll.setAttribute('aria-label', `טבלת ${title}`);
   const table = el('table'); const caption = el('caption', `${title} — לחצו על כותרת עמודה למיון`, 'sr-only'); table.append(caption);
   const thead = el('thead'), header = el('tr'), tbody = el('tbody');
-  const columns = [['title', kind === 'album' ? 'אלבום' : 'שם'], ['artists', 'אמן'], ['releaseDate', 'תאריך יציאה'], ['genres', 'ז׳אנר'], ...(kind === 'songs' ? [['albums', 'אלבום']] : []), ['popularity', 'פופולריות']];
+  const columns = [['title', kind === 'album' ? 'אלבום' : 'שם'], ...(kind === 'album' ? [['type', 'סוג']] : []), ['artists', 'אמן'], ['releaseDate', 'תאריך יציאה'], ['genres', 'ז׳אנר'], ...(kind === 'songs' ? [['albums', 'אלבום']] : []), ['popularity', 'פופולריות']];
   const headers = [];
   for (const [key, label] of columns) {
     const th = el('th'); th.scope = 'col'; const button = el('button'); button.type = 'button';
@@ -61,7 +61,8 @@ function createTable(data, { id, kind, title, description }) {
       const tr = el('tr');
       for (const [key] of columns) {
         let value = row[key];
-        if (key === 'releaseDate') value = dateFormat.format(new Date(`${value}T00:00:00Z`));
+        if (key === 'type') value = value === 'ep' ? 'EP' : 'אלבום';
+        else if (key === 'releaseDate') value = dateFormat.format(new Date(`${value}T00:00:00Z`));
         else if (key === 'popularity') value = value == null ? '—' : `${value.score}/100`;
         else if (Array.isArray(value)) value = value.join(' · ') || '—';
         const td = el('td', value); td.dir = 'auto';
@@ -89,7 +90,7 @@ async function load() {
     if (data.schemaVersion !== 1 || data.year !== 2026 || !Array.isArray(data.releases) || !Array.isArray(data.songs)) throw new Error('Unsupported catalog');
     const sections = [
       { id: 'singles', kind: 'single', title: 'סינגלים', description: 'שירים שיצאו כריליס עצמאי.' },
-      { id: 'albums', kind: 'album', title: 'אלבומים', description: 'אלבומים שיצאו במהלך השנה.' },
+      { id: 'albums', kind: 'album', title: 'אלבומים ו־EP', description: 'אלבומים ומיני־אלבומים שיצאו במהלך השנה.' },
       { id: 'songs', kind: 'songs', title: 'כל השירים', description: 'סינגלים ורצועות אלבום, עם רשומה אחת לכל הקלטה.' }
     ].map(config => createTable(data, config));
     container.replaceChildren(...sections);

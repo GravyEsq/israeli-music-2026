@@ -2,7 +2,7 @@
 
 מעקב אחר מוזיקה ישראלית חדשה בעברית בשנת 2026. הממשק בעברית ובכיווניות RTL, עם שלוש טבלאות נפרדות: סינגלים, אלבומים וכל השירים. בכל טבלה יש חיפוש, סינון לפי אמן וז׳אנר ומיון באמצעות כותרות העמודות, כולל תאריך ופופולריות.
 
-**פיילוט עם נתונים אמיתיים: אודיה, עומר אדם ועדן חסון. הכיסוי חלקי.** האיסוף היומי מאתר ריליסים ומכין רשימת מועמדים; פרסום רשומה חדשה מחייב בדיקת שפה, אמנים ראשיים וזהות ההקלטה. מדד הפופולריות עדיין לא מחושב. אין צורך במפתחות API.
+**פיילוט עם נתונים אמיתיים: אודיה, עומר אדם, עדן חסון ואושר כהן. הכיסוי חלקי.** האיסוף היומי מאתר ריליסים ומכין רשימת מועמדים; פרסום רשומה חדשה מחייב בדיקת שפה, אמנים ראשיים וזהות ההקלטה. מדד הפופולריות עדיין לא מחושב. אין צורך במפתחות API.
 
 [פתיחת האתר](https://gravyesq.github.io/israeli-music-2026/) · [מצב הבדיקות והפרסום](https://github.com/GravyEsq/israeli-music-2026/actions)
 
@@ -51,8 +51,8 @@ test/                        Synthetic fixtures, never served to users
 ## Data contract and scope
 
 - Track Hebrew-language music released in 2026. At least one primary artist must be Israeli and meet the agreed threshold of 50,000 monthly listeners. Record the source and observation date for eligibility; do not infer eligibility from featured artists or assume it remains current.
-- `releases` contains single/album release entities. `songs` contains one record per distinct recording, including album tracks. A song appearing as a single and later on an album has multiple `releaseIds`, not duplicate song records.
-- `releaseDate` on a song is its first release date, not the later album appearance. Previously released songs from earlier years are outside the 2026 song catalog. An album record may link only its eligible new Hebrew tracks; it does not assert a complete tracklist. EP classification remains a future editorial decision.
+- `releases` contains single/album/EP release entities. `songs` contains one record per distinct recording, including album tracks. A song appearing as a single and later on an album has multiple `releaseIds`, not duplicate song records.
+- `releaseDate` on a song is its first release date, not the later album appearance. Previously released songs from earlier years are outside the 2026 song catalog. An album record may link only its eligible new Hebrew tracks; it does not assert a complete tracklist. EPs use type `ep` and appear in the albums table with an explicit type column. Multi-track singles remain single release entities.
 - Use stable local IDs. ISRC is optional (`null` when unknown); known duplicate ISRCs and IDs are rejected. Each reviewed provider track maps to an explicit `recordingId`. Assign the SAME recording ID to confirmed single/album appearances; use a separate ID for live, cover and remix recordings. Never merge on title alone. Officially released new cover recordings are eligible, even if the underlying composition is older.
 - Each record includes primary `artists`, `language: "he"`, `genres` (empty when unknown), verification `sources` with HTTPS links and `checkedAt`, and `eligibility` evidence. Source and artist assertions still need human/provider verification; schema validation alone cannot prove them.
 - `popularity` is `null` until a methodology is implemented. A future value requires a 0–100 `score`, `method` description and dated `source`. This is not a stream count. Unknown values display as a dash and sort last in either direction. Do not fabricate scores or use zero for missing data.
@@ -81,6 +81,6 @@ For initial setup, set Repository Settings → Pages → Source to **GitHub Acti
 4. Compute the fingerprint using exported `fingerprint()` in `scripts/importer.mjs` against the current Apple lookup JSON (`id=COLLECTION_ID&entity=song&country=il&limit=200`). The fingerprint covers identity, track count and dates, excluding unrelated prices/artwork. Do not approve a changed fingerprint without reviewing the changed metadata.
 5. Run `npm run update:data` and `npm run check`, inspect the diff, commit and push. A repeat run must leave `releases.json` and `updatedAt` unchanged when the verified data did not change. The queue and successful-check timestamp may change.
 
-The initial batch contains 2 studio albums and 7 singles (34 recordings). It is NOT an exhaustive catalog even for the three pilot artists. EPs, live medleys, duplicate provider editions and uncertain guest appearances remain queued. The Apple artist lookup may omit releases credited to another artist or unavailable in the Israeli storefront. The 200-result guard detects a possible limit but cannot prove complete coverage. Expand providers and roster deliberately; do not claim full-year completeness.
+The reviewed batch contains 2 studio albums, 3 EPs and 8 singles (49 recordings), covering four pilot artists. It is NOT an exhaustive catalog even for these artists. Live medleys, duplicate provider editions and uncertain guest appearances remain queued. See `config/review-notes.md` for investigation findings. The Apple artist lookup may omit releases credited to another artist or unavailable in the Israeli storefront. The 200-result guard detects a possible limit but cannot prove complete coverage. Expand providers and roster deliberately; do not claim full-year completeness.
 
 Dates in the pilot are digital release dates from Apple, corroborated with release descriptions. Genre `Pop` is shown as פופ; the broad provider label `Israeli` is not treated as a musical genre. Popularity remains null. No music, lyrics or cover images are hosted.

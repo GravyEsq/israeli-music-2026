@@ -737,5 +737,331 @@
         }
       }
     ]
+  },
+  {
+    "collectionId": 6809531913,
+    "fingerprint": "228d0908ecbb453cda349b6e2ecd8cda8c53ee57f508b41993ff0d6b226c991d",
+    "qualifyingArtist": "odeya",
+    "type": "ep",
+    "title": "השם עזר",
+    "artists": [
+      "אודיה"
+    ],
+    "releaseDate": "2026-09-09",
+    "genres": [
+      "פופ"
+    ],
+    "reviewedAt": "2026-09-12T09:10:04.740Z",
+    "reviewNote": "Reviewed Apple credits and complete tracklist against official Hebrew label release material. Digital date comes from Apple, not the label article publication date. Separate recording IDs; no title-based merge. Wedding Songs is a two-track single.",
+    "sources": [
+      {
+        "label": "הליקון ארומה · מידע על הריליס",
+        "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%A2%D7%96%D7%A8/",
+        "checkedAt": "2026-09-12T09:10:04.740Z"
+      }
+    ],
+    "tracks": [
+      {
+        "trackId": 6809531914,
+        "recordingId": "apple-recording-6809531914",
+        "title": "דילן - 3898*",
+        "artists": [
+          "אודיה"
+        ],
+        "firstReleaseDate": "2026-09-09",
+        "isrc": null,
+        "languageSource": {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%A2%D7%96%D7%A8/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      {
+        "trackId": 6809531915,
+        "recordingId": "apple-recording-6809531915",
+        "title": "פאפית",
+        "artists": [
+          "אודיה"
+        ],
+        "firstReleaseDate": "2026-09-09",
+        "isrc": null,
+        "languageSource": {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%A2%D7%96%D7%A8/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      {
+        "trackId": 6809531916,
+        "recordingId": "apple-recording-6809531916",
+        "title": "ואני בחסדך בטחתי",
+        "artists": [
+          "אודיה",
+          "בן צור"
+        ],
+        "firstReleaseDate": "2026-09-09",
+        "isrc": null,
+        "languageSource": {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%A2%D7%96%D7%A8/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      {
+        "trackId": 6809531918,
+        "recordingId": "apple-recording-6809531918",
+        "title": "נמשכת לעצמי",
+        "artists": [
+          "אודיה"
+        ],
+        "firstReleaseDate": "2026-09-09",
+        "isrc": null,
+        "languageSource": {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%A2%D7%96%D7%A8/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      {
+        "trackId": 6809531919,
+        "recordingId": "apple-recording-6809531919",
+        "title": "רוצי ילדה",
+        "artists": [
+          "אודיה"
+        ],
+        "firstReleaseDate": "2026-09-09",
+        "isrc": null,
+        "languageSource": {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%93%D7%99%D7%94-%D7%94%D7%A9%D7%9D-%D7%A2%D7%96%D7%A8/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      }
+    ]
+  },
+  {
+    "collectionId": 1876888193,
+    "fingerprint": "eeff61fec2ec4cd614fefad7eeeb228caa45d153fa8ea13a0ad17bec00cb7758",
+    "qualifyingArtist": "osher-cohen",
+    "type": "ep",
+    "title": "Life Lately",
+    "artists": [
+      "אושר כהן"
+    ],
+    "releaseDate": "2026-02-16",
+    "genres": [
+      "פופ"
+    ],
+    "reviewedAt": "2026-09-12T09:10:04.740Z",
+    "reviewNote": "Reviewed Apple credits and complete tracklist against official Hebrew label release material. Digital date comes from Apple, not the label article publication date. Separate recording IDs; no title-based merge. Wedding Songs is a two-track single.",
+    "sources": [
+      {
+        "label": "הליקון ארומה · מידע על הריליס",
+        "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-life-lately-ep/",
+        "checkedAt": "2026-09-12T09:10:04.740Z"
+      }
+    ],
+    "tracks": [
+      {
+        "trackId": 1876888194,
+        "recordingId": "apple-recording-1876888194",
+        "title": "בכל יום שאיבדתי אותך",
+        "artists": [
+          "אושר כהן"
+        ],
+        "firstReleaseDate": "2026-02-16",
+        "isrc": null,
+        "languageSource": {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-life-lately-ep/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      {
+        "trackId": 1876888195,
+        "recordingId": "apple-recording-1876888195",
+        "title": "לא שם",
+        "artists": [
+          "אושר כהן"
+        ],
+        "firstReleaseDate": "2026-02-16",
+        "isrc": null,
+        "languageSource": {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-life-lately-ep/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      {
+        "trackId": 1876888196,
+        "recordingId": "apple-recording-1876888196",
+        "title": "שונא את תל אביב",
+        "artists": [
+          "אושר כהן"
+        ],
+        "firstReleaseDate": "2026-02-16",
+        "isrc": null,
+        "languageSource": {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-life-lately-ep/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      {
+        "trackId": 1876888651,
+        "recordingId": "apple-recording-1876888651",
+        "title": "כולם גנבים",
+        "artists": [
+          "אושר כהן"
+        ],
+        "firstReleaseDate": "2026-02-16",
+        "isrc": null,
+        "languageSource": {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-life-lately-ep/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      }
+    ]
+  },
+  {
+    "collectionId": 6802323504,
+    "fingerprint": "8074f1f3190805cd1ce47b8e64585208e610619a1173ec549741559a51b9d9f3",
+    "qualifyingArtist": "osher-cohen",
+    "type": "ep",
+    "title": "אוגוסט דאמפ 2026",
+    "artists": [
+      "אושר כהן"
+    ],
+    "releaseDate": "2026-08-20",
+    "genres": [
+      "פופ"
+    ],
+    "reviewedAt": "2026-09-12T09:10:04.740Z",
+    "reviewNote": "Reviewed Apple credits and complete tracklist against official Hebrew label release material. Digital date comes from Apple, not the label article publication date. Separate recording IDs; no title-based merge. Wedding Songs is a two-track single.",
+    "sources": [
+      {
+        "label": "הליקון ארומה · מידע על הריליס",
+        "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-%D7%90%D7%95%D7%92%D7%95%D7%A1%D7%98-%D7%93%D7%90%D7%9E%D7%A4-2026/",
+        "checkedAt": "2026-09-12T09:10:04.740Z"
+      }
+    ],
+    "tracks": [
+      {
+        "trackId": 6802323505,
+        "recordingId": "apple-recording-6802323505",
+        "title": "דאון",
+        "artists": [
+          "אושר כהן"
+        ],
+        "firstReleaseDate": "2026-08-20",
+        "isrc": null,
+        "languageSource": {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-%D7%90%D7%95%D7%92%D7%95%D7%A1%D7%98-%D7%93%D7%90%D7%9E%D7%A4-2026/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      {
+        "trackId": 6802323506,
+        "recordingId": "apple-recording-6802323506",
+        "title": "יום הולדת",
+        "artists": [
+          "אושר כהן"
+        ],
+        "firstReleaseDate": "2026-08-20",
+        "isrc": null,
+        "languageSource": {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-%D7%90%D7%95%D7%92%D7%95%D7%A1%D7%98-%D7%93%D7%90%D7%9E%D7%A4-2026/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      {
+        "trackId": 6802323507,
+        "recordingId": "apple-recording-6802323507",
+        "title": "הכלה של המדינה",
+        "artists": [
+          "אושר כהן"
+        ],
+        "firstReleaseDate": "2026-08-20",
+        "isrc": null,
+        "languageSource": {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-%D7%90%D7%95%D7%92%D7%95%D7%A1%D7%98-%D7%93%D7%90%D7%9E%D7%A4-2026/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      {
+        "trackId": 6802323508,
+        "recordingId": "apple-recording-6802323508",
+        "title": "פרח",
+        "artists": [
+          "אושר כהן"
+        ],
+        "firstReleaseDate": "2026-08-20",
+        "isrc": null,
+        "languageSource": {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-%D7%90%D7%95%D7%92%D7%95%D7%A1%D7%98-%D7%93%D7%90%D7%9E%D7%A4-2026/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      }
+    ]
+  },
+  {
+    "collectionId": 6769160540,
+    "fingerprint": "4abf120e24023ad0e572b213a0b5f990cf6e9daeee1ae1fc6e8bd0ef5713d27d",
+    "qualifyingArtist": "osher-cohen",
+    "type": "single",
+    "title": "Wedding Songs",
+    "artists": [
+      "אושר כהן"
+    ],
+    "releaseDate": "2026-05-17",
+    "genres": [
+      "פופ"
+    ],
+    "reviewedAt": "2026-09-12T09:10:04.740Z",
+    "reviewNote": "Reviewed Apple credits and complete tracklist against official Hebrew label release material. Digital date comes from Apple, not the label article publication date. Separate recording IDs; no title-based merge. Wedding Songs is a two-track single.",
+    "sources": [
+      {
+        "label": "הליקון ארומה · מידע על הריליס",
+        "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-wedding-song/",
+        "checkedAt": "2026-09-12T09:10:04.740Z"
+      }
+    ],
+    "tracks": [
+      {
+        "trackId": 6769160541,
+        "recordingId": "apple-recording-6769160541",
+        "title": "בדיוק ככה",
+        "artists": [
+          "אושר כהן"
+        ],
+        "firstReleaseDate": "2026-05-17",
+        "isrc": null,
+        "languageSource": {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-wedding-song/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      },
+      {
+        "trackId": 6769160542,
+        "recordingId": "apple-recording-6769160542",
+        "title": "לעולם ועד",
+        "artists": [
+          "אושר כהן"
+        ],
+        "firstReleaseDate": "2026-05-17",
+        "isrc": null,
+        "languageSource": {
+          "label": "הליקון ארומה · מידע על הריליס",
+          "url": "https://heliconaroma.co.il/%D7%90%D7%95%D7%A9%D7%A8-%D7%9B%D7%94%D7%9F-wedding-song/",
+          "checkedAt": "2026-09-12T09:10:04.740Z"
+        }
+      }
+    ]
   }
 ]

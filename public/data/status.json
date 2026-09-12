@@ -1,13 +1,14 @@
 {
   "state": "ok",
-  "lastAttempt": "2026-09-12T03:26:50.934Z",
-  "lastSuccess": "2026-09-12T03:26:50.934Z",
-  "pendingCount": 11,
+  "lastAttempt": "2026-09-12T09:10:48.465Z",
+  "lastSuccess": "2026-09-12T09:10:48.465Z",
+  "pendingCount": 12,
   "expiredArtists": [],
   "artists": [
     "אודיה",
     "עומר אדם",
-    "עדן חסון"
+    "עדן חסון",
+    "אושר כהן"
   ],
   "coverage": "pilot",
   "mode": "discovery-with-editorial-review"

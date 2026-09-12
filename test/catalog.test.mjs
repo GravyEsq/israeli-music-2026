@@ -42,3 +42,11 @@ test('integrity rejects duplicate recordings, dangling releases and unqualified 
   const artist = fixture(); artist.songs[0].eligibility.artist = 'not a primary artist';
   assert.ok(validateCatalog(artist).some(e => e.includes('primary artist')));
 });
+
+test('EP appears with albums and its songs remain searchable by release title', () => {
+  const data = fixture(); data.releases[1].type = 'ep'; data.releases[1].title = 'מיני אלבום';
+  assert.deepEqual(validateCatalog(data), []);
+  assert.equal(rowsFor(data, 'album')[0].type, 'ep');
+  assert.equal(rowsFor(data, 'single').length, 1);
+  assert.equal(selectRows(rowsFor(data, 'songs'), { query: 'מיני אלבום' }).length, 1);
+});

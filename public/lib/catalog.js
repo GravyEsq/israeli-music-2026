@@ -1,10 +1,10 @@
 const collator = new Intl.Collator('he', { numeric: true, sensitivity: 'base' });
 
 export function rowsFor(data, kind) {
-  if (kind !== 'songs') return data.releases.filter(row => row.type === kind);
+  if (kind !== 'songs') return data.releases.filter(row => (row.type === kind || kind === 'album' && row.type === 'ep'));
   const releases = new Map(data.releases.map(row => [row.id, row]));
   return data.songs.map(song => ({ ...song,
-    albums: song.releaseIds.map(id => releases.get(id)).filter(row => row?.type === 'album').map(row => row.title)
+    albums: song.releaseIds.map(id => releases.get(id)).filter(row => ['album', 'ep'].includes(row?.type)).map(row => row.title)
   }));
 }
 
