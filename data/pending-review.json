@@ -57,14 +57,6 @@
       "reason": "needs-language-primary-artist-and-recording-review"
     },
     {
-      "collectionId": 6797049899,
-      "title": "חושב רק עלייך (feat. עומר אדם) - Single",
-      "providerArtist": "Reel Adam",
-      "releaseDate": "2026-08-01",
-      "url": "https://music.apple.com/il/album/6797049899",
-      "reason": "needs-language-primary-artist-and-recording-review"
-    },
-    {
       "collectionId": 6803060360,
       "title": "כולי תפילה & בן של מלך (בריכת הסולטן לייב) - Single",
       "providerArtist": "Eden Hason & Meydad Tasa",
@@ -81,19 +73,19 @@
       "reason": "needs-language-primary-artist-and-recording-review"
     },
     {
-      "collectionId": 6806161675,
-      "title": "מצאת לי אחרת (feat. עומר אדם) - Single",
-      "providerArtist": "Reef RL",
-      "releaseDate": "2026-08-27",
-      "url": "https://music.apple.com/il/album/6806161675",
+      "collectionId": 6812267749,
+      "title": "כאב של לוחמים + בחורים טובים (מתוך חזרות למופע NEXT) - Single",
+      "providerArtist": "Idan Amedi & Omer Adam",
+      "releaseDate": "2026-09-15",
+      "url": "https://music.apple.com/il/album/6812267749",
       "reason": "needs-language-primary-artist-and-recording-review"
     },
     {
-      "collectionId": 6806920688,
-      "title": "כמה את יפה (feat. עומר אדם) - Single",
-      "providerArtist": "Reef RL",
-      "releaseDate": "2026-08-30",
-      "url": "https://music.apple.com/il/album/6806920688",
+      "collectionId": 6812274621,
+      "title": "מחכה + איפה אתה (מתוך חזרות למופע NEXT) - Single",
+      "providerArtist": "Rita & Osher Cohen",
+      "releaseDate": "2026-09-15",
+      "url": "https://music.apple.com/il/album/6812274621",
       "reason": "needs-language-primary-artist-and-recording-review"
     }
   ]
